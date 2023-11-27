@@ -2,7 +2,7 @@
 hey!! here I have written smart-contract about antique verification..
 
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.0;
+pragma solidity ^0.8.22;
 
 contract AntiqueVerification {
     address public owner;
